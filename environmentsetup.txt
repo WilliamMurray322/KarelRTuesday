@@ -3,7 +3,7 @@ To set up the environment to run programs from default
 The environment variables must be at least
 -I ".:../karel"
 
-To run from karel use
+To run from karel
 -I "."
 
 $graphical can be true or false to define which type of world will be used (default is true)
