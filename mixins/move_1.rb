@@ -16,7 +16,32 @@ module Move1
 		
 	end
 
+	def move_4
+		move
+		move
+		move
+		move
+	end
+
 	def move_5
+		move
+		move
+		move
+		move
+		move
+	end
+
+	def move_6
+		move
+		move
+		move
+		move
+		move
+	end
+
+	def move_8
+		move
+		move
 		move
 		move
 		move
