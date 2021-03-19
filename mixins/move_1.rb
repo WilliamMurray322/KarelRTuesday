@@ -60,8 +60,12 @@ module Move1
 		turn_left
 	end
 
-	
-	
+	def pick_beeper_move
+		if next_to_a_beeper
+			pick_beeper
+			move
+		end
+	end
 
 
 end
