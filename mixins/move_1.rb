@@ -66,6 +66,35 @@ module Move1
 			move
 		end
 	end
+	def put_5_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+	end
+	def put_2_beeper
+		put_beeper
+		put_beeper
+	end
+	def put_3_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+	end
+	def put_4_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+		put_beeper
+	end
+	def pick_3_beeper
+		pick_beeper
+		pick_beeper
+		pick_beeper
+	end
+
+
 
 
 end
